@@ -7,7 +7,11 @@
             "request": "launch",
             "stopOnEntry": false,
             "pythonPath": "${config.python.pythonPath}",
+<<<<<<< HEAD
             "program": "${workspaceRoot}/face.py",
+=======
+            "program": "${workspaceRoot}/shapes.py",
+>>>>>>> 44e289d51128085ad98e7515d4541ecd5a8a8f97
             "debugOptions": [
                 "WaitOnAbnormalExit",
                 "WaitOnNormalExit",
