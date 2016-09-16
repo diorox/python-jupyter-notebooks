@@ -5,9 +5,9 @@
             "name": "Python",
             "type": "python",
             "request": "launch",
-            "stopOnEntry": true,
+            "stopOnEntry": false,
             "pythonPath": "${config.python.pythonPath}",
-            "program": "${workspaceRoot}/drawsumpin.py",
+            "program": "${workspaceRoot}/myDraw.py",
             "debugOptions": [
                 "WaitOnAbnormalExit",
                 "WaitOnNormalExit",
